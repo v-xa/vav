@@ -632,11 +632,7 @@ echo                          ╚═══╝  ╚═╝  ╚═╝  ╚══�
 echo.
 echo                 ===== THANK YOU FOR USING VAV =====
 echo.
-echo         Windows Optimization Script by VAV - Customize and Optimize
 echo.
-echo If any issues occur after applying these optimizations, you can:
-echo  1. Use the System Restore option in the main menu
-echo  2. Contact support at your-support-email@example.com
 echo.
 echo Press any key to exit...
 pause >nul
